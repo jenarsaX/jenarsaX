@@ -4,7 +4,7 @@
 
 ## Soy Desarrollador Web  
 
-- 👨‍💻 Actualmente trabajo como desarrollador web en Industrial Inspection Services S.A.C.  
+- 👨‍💻 Trabajé como desarrollador web en Industrial Inspection Services S.A.C.  
 - 📚 Aprendiendo todo sobre tecnologías de Frontend y Backend 
 - 💪🏼 Metas futuras: Convertirme en desarrollador full-stack y mejorar mis habilidades en desarrollo en la nube.  
 
